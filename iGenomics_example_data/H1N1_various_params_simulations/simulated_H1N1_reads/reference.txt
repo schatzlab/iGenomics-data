@@ -1,0 +1,3 @@
+rl = read length
+se = sequencing error rate
+mr = mutation rate

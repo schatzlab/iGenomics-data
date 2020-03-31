@@ -1,0 +1,1 @@
+In each of the subdirectories, the reads were simulated from the accompanying reference genome
